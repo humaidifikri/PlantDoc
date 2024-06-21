@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    app:cardBackgroundColor="@color/background"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@color/blue2"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:lines="3"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            tools:text="@string/lorem" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp">
+
+            <ImageView
+                android:id="@+id/iv_image"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:scaleType="center"
+                tools:src="@tools:sample/avatars"
+                tools:text="@string/lorem" />
+
+            <TextView
+                android:id="@+id/tv_description"
+                android:layout_width="247dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:ellipsize="end"
+                android:maxLines="7"
+                tools:text="@string/lorem" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

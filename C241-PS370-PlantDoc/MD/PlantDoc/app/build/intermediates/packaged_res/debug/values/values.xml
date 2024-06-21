@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="blue2">#F8F8F8</color>
+    <color name="blue3">#F8F8F8</color>
+    <color name="blueGrey">#2B6EA8</color>
+    <color name="cancer">#FF000000</color>
+    <color name="green">#6EFFBF</color>
+    <color name="grey">#D9D9D9</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="lighGrey">#F8F8F8</color>
+    <color name="orange">#61AF2B</color>
+    <color name="permanent_geranium_lake">#E72929</color>
+    <color name="pinkGrey">#D2B8B8</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="analyze">Analyze</string>
+    <string name="app_name">PlantDoc</string>
+    <string name="camera">Camera</string>
+    <string name="camera_x">CameraX</string>
+    <string name="click_to_read_more">Click To Read More</string>
+    <string name="crop">Crop</string>
+    <string name="delete">Delete</string>
+    <string name="failed_to_pick_image">Failed to pick image</string>
+    <string name="failed_to_take_photo">Failed</string>
+    <string name="gallery">Galery</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="label_healthy">Healthy</string>
+    <string name="label_non_healthy">Xanthomonas campestris pv. vesicatoria</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ornare arcu odio ut sem nulla. Facilisis gravida neque convallis a. Massa vitae tortor condimentum lacinia quis vel eros donec ac. Quam quisque id diam vel quam elementum pulvinar etiam.</string>
+    <string name="model_initialization_failed">Model initialization failed</string>
+    <string name="news">News</string>
+    <string name="result">Result</string>
+    <string name="saham_goto_string_description"><![CDATA[Saham GOTO meroket sebesar 75% hari ini, menciptakan gelombang kejutan di pasar. Kenaikan ini diatributkan pada berbagai faktor, termasuk kinerja keuangan perusahaan yang mengesankan dan antusiasme investor terhadap inovasi terbaru yang diluncurkan oleh perusahaan dalam bidang teknologi. Para analis pasar meyakini bahwa kenaikan signifikan ini dapat mencerminkan potensi pertumbuhan jangka panjang bagi GOTO, menjadikannya sorotan utama di tengah-tengah pasar saham yang dinamis…. Read more]]></string>
+    <string name="save">Save</string>
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="CustomButton">
+        <item name="android:background">@drawable/custom_button</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+    <style name="MyMenuStyle" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:background">@color/orange</item>
+    </style>
+    <style name="Theme.Asclepius" parent="Base.Theme.Asclepius">
+        <item name="colorPrimary">@color/orange</item>
+    </style>
+</resources>

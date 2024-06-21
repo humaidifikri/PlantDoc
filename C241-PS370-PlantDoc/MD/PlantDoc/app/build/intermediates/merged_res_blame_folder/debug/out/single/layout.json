@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\fragment_news.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_tutor.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\article_item.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\article_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\list_item.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_hasil.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_hasil.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_penyakitl.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_penyakitl.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\classification_result_item.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\classification_result_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_penyakitl.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_penyakitl.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_deskripsi.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_deskripsi.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\fragment_scan.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\fragment_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_tutor.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_result.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_deskripsi.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_deskripsi.xml"
+    },
+    {
+        "merged": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-mergeDebugResources-47:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\fauza\\.gradle\\daemon\\8.2\\com.dicoding.asclepius.app-main-50:\\layout\\activity_login.xml"
+    }
+]
