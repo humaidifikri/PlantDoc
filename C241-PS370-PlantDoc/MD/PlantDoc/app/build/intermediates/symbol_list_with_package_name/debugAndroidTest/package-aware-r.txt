@@ -1,3 +1,0 @@
-com.dicoding.asclepius.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

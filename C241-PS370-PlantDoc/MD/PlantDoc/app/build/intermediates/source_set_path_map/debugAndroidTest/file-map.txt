@@ -1,6 +1,0 @@
-com.dicoding.asclepius.test.app-annotation-experimental-1.4.0-0 C:\Users\fauza\.gradle\caches\transforms-3\9d1faf4803c19c72958302aeab41bd0e\transformed\annotation-experimental-1.4.0\res
-com.dicoding.asclepius.test.app-core-1.5.0-1 C:\Users\fauza\.gradle\caches\transforms-3\ad9d42f7b934876daef2b5c294c0e73f\transformed\core-1.5.0\res
-com.dicoding.asclepius.test.app-androidTest-2 D:\Dicoding\1\starter-project\app\build\generated\res\resValues\androidTest\debug
-com.dicoding.asclepius.test.app-mergeDebugAndroidTestResources-3 D:\Dicoding\1\starter-project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.dicoding.asclepius.test.app-mergeDebugAndroidTestResources-4 D:\Dicoding\1\starter-project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.dicoding.asclepius.test.app-merged_res-5 D:\Dicoding\1\starter-project\app\build\intermediates\merged_res\debugAndroidTest

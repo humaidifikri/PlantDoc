@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PlantDoc</string>
+
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galery</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Result</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="failed_to_pick_image">Failed to pick image</string>
+    <string name="crop">Crop</string>
+    <string name="model_initialization_failed">Model initialization failed</string>
+    <string name="save">Save</string>
+    <string name="history">History</string>
+    <string name="news">News</string>
+    <string name="delete">Delete</string>
+    <string name="failed_to_take_photo">Failed</string>
+    <string name="label_healthy">Healthy</string>
+    <string name="label_non_healthy">Xanthomonas campestris pv. vesicatoria</string>
+
+    <string name="click_to_read_more">Click To Read More</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ornare arcu odio ut sem nulla. Facilisis gravida neque convallis a. Massa vitae tortor condimentum lacinia quis vel eros donec ac. Quam quisque id diam vel quam elementum pulvinar etiam.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="saham_goto_string_description"><![CDATA[Saham GOTO meroket sebesar 75% hari ini, menciptakan gelombang kejutan di pasar. Kenaikan ini diatributkan pada berbagai faktor, termasuk kinerja keuangan perusahaan yang mengesankan dan antusiasme investor terhadap inovasi terbaru yang diluncurkan oleh perusahaan dalam bidang teknologi. Para analis pasar meyakini bahwa kenaikan signifikan ini dapat mencerminkan potensi pertumbuhan jangka panjang bagi GOTO, menjadikannya sorotan utama di tengah-tengah pasar saham yang dinamis…. Read more]]></string>
+</resources>
