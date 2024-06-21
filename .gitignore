@@ -1,3 +1,6 @@
 venv/
 *.dll
 *.pyd
+venv/
+*.dll
+*.pyd
